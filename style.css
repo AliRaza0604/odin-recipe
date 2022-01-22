@@ -1,0 +1,28 @@
+*{
+    background-color:  #66545e;
+}
+
+.header{
+    font-family: 'Times New Roman', Times, serif;
+    color: #f6e0b5;
+}
+
+.recipe_list{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.image{
+    height: auto;
+    width: 200px;
+}
+
+.sub_header{
+    font-family: 'Times New Roman', Times, serif;
+    color: #aa6f73;
+}
+
+.content{
+    font-family: 'Times New Roman', Times, serif;
+    color: 	#eea990;
+}
